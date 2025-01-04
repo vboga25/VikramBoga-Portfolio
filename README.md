@@ -28,34 +28,21 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
   - Rigorously tested with 50+ participants, with iterative improvements based on user feedback
 - **Technologies Used:** BLE, WiFi, MQTT, Fusion 360, 3D Printer (Makerbot Sketch), FDM 3D Printing slicer (Makerbot Cloudprint), Arduino UNO, ESP32, HM-10 Bluetooth Module, Ultrasonic sensor, C++, Arduino IDE
 
-### 3. [Smart Home Automation System](https://github.com/yourusername/smart-home-automation)
+### 3. [Device for Efficient Solar Energy harvesting](https://github.com/yourusername/smart-home-automation)
 - **Description:** A comprehensive project to create a smart home automation system with IoT devices.
 - **Key Features:**
-  - Design of electronic circuits and PCB layouts
-  - Integration of sensors and actuators with a microcontroller
-  - Development of a mobile app for control and monitoring
-- **Technologies Used:** Eagle PCB, Arduino, Android Studio
+  - Dual-axis solar tracking system driven by two servo motors for continuous optimal alignment with the Sun.
+  - Light intensity measurement using four strategically placed LDRs for precise detection of the brightest light source.
+  - Arduino microcontroller integration for processing LDR inputs and controlling servo motors in real-time.
+  - Simulation of solar tracking behaviour using ROS and URDF to streamline development and optimize functionality.
+  - Compact, durable tracker module designed using Fusion 360 and fabricated through FDM 3D printing.
+  - Increased energy harvesting efficiency by up to 40% through accurate, automated solar tracking.
+- **Technologies Used:** ROS (Robot Operating System) for simulation and control, URDF for manipulator modeling, Fusion 360, C++ for Arduino programming and ROS integration, FDM 3D printing
 
-### 4. [Hydraulic Press Control System](https://github.com/yourusername/hydraulic-press-control)
-- **Description:** Design and implementation of a control system for a hydraulic press used in manufacturing.
-- **Key Features:**
-  - Detailed CAD models of the hydraulic press components
-  - Simulation of hydraulic circuits and control logic
-  - Implementation of PID control algorithms
-- **Technologies Used:** SolidWorks, Simulink, LabVIEW
-
-### 5. [Drone Navigation System](https://github.com/yourusername/drone-navigation)
-- **Description:** Development of a navigation system for an autonomous drone.
-- **Key Features:**
-  - CAD designs of the drone frame
-  - Simulation of flight dynamics and control
-  - Implementation of GPS-based navigation algorithms
-- **Technologies Used:** CATIA, MATLAB, Python
 
 ## Contact
 
-For more information or collaboration opportunities, feel free to reach out to me at [your email].
-
+For more information or collaboration opportunities, feel free to reach out to me at vikramboga1645@gmail.com or https://www.linkedin.com/in/vikram-boga/
 
 # VikramBoga-Portfolio
 A curated portfolio showcasing my technical projects as a mechatronics engineer, highlighting my skills, methodologies, and achievements across various domains.
