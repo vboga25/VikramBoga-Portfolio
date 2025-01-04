@@ -4,7 +4,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
 
 ## Projects Overview
 
-### 1. [IoT-enabled Human Presence Sensor Module](https://github.com/vboga25/HP-Sensor)
+### 1. [IoT-enabled Human Presence Sensor Module](./IoT-enabled Human Presence Sensor Module)
 - **Description:** This project involves the design, prototype, and commercial viability test of a Smart Human Presence Sensor module to detect static human presence with customizable parameter settings and seamless communication to the cloud tailored for home automation applications.
 - **Key Features:**
   - Detection of static human presence with high accuracy
