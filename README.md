@@ -4,7 +4,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
 
 ## Projects Overview
 
-### 1. [IoT-enabled Human Presence Sensor Module](./IoT-enabled Human Presence Sensor Module)
+### 1. [IoT-enabled Human Presence Sensor Module](./1)
 - **Description:** This project involves the design, prototype, and commercial viability test of a Smart Human Presence Sensor module to detect static human presence with customizable parameter settings and seamless communication to the cloud tailored for home automation applications.
 - **Key Features:**
   - Detection of static human presence with high accuracy
@@ -15,7 +15,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
   - Optimized for energy efficiency to support continuous operation
 - **Technologies Used:** Fusion 360, Keil µVision, C
 
-### 2. [IoT-based Wearable Assistive Device for the Visually Impaired: A hands-free solution](https://github.com/yourusername/automated-guided-vehicle)
+### 2. [IoT-based Wearable Assistive Device for the Visually Impaired: A hands-free solution](./2)
 - **Description:** Development, prototyping, and testing of a wearable assistive device designed to offer a modern alternative to traditional white canes, enhancing mobility and independence for visually impaired individuals. Undertaken as a college project, I worked with guidance from my professor as the project mentor to bring this vision to life.
 - **Key Features:**
   - Obstacle avoidance system built using Arduino Uno and ultrasonic sensors, providing haptic feedback for intuitive navigation
@@ -28,13 +28,14 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
   - Rigorously tested with 50+ participants, with iterative improvements based on user feedback
 - **Technologies Used:** BLE, WiFi, MQTT, Fusion 360, 3D Printer (Makerbot Sketch), FDM 3D Printing slicer (Makerbot Cloudprint), Arduino UNO, ESP32, HM-10 Bluetooth Module, Ultrasonic sensor, C++, Arduino IDE
 
-### 3. [Device for Efficient Solar Energy harvesting](https://github.com/yourusername/smart-home-automation)
+### 3. [Device for Efficient Solar Energy harvesting](./3)
 - **Description:** A comprehensive project to create a smart home automation system with IoT devices.
 - **Key Features:**
   - Dual-axis solar tracking system driven by two servo motors for continuous optimal alignment with the Sun.
-  - Light intensity measurement using four strategically placed LDRs for precise detection of the brightest light source.
+  - Light intensity measurement using four strategically placed Light Dependent Resistors (LDRs) for precise detection of the brightest light source.
   - Arduino microcontroller integration for processing LDR inputs and controlling servo motors in real-time.
   - Simulation of solar tracking behaviour using ROS and URDF to streamline development and optimize functionality.
+  - Manual operation mode implemented for debugging and system testing.
   - Compact, durable tracker module designed using Fusion 360 and fabricated through FDM 3D printing.
   - Increased energy harvesting efficiency by up to 40% through accurate, automated solar tracking.
 - **Technologies Used:** ROS (Robot Operating System) for simulation and control, URDF for manipulator modeling, Fusion 360, C++ for Arduino programming and ROS integration, FDM 3D printing
