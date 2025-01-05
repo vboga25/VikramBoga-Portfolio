@@ -3,7 +3,7 @@
 This project focuses on designing and prototyping a dual-axis solar tracking system to maximize solar energy harvesting. The primary aim of this project was to gain hands-on experience with the ROS (Robot Operating System) framework while solving a real-world problem. By utilizing advanced simulation and control systems, the tracker aligns the solar panel with the Sun's position throughout the day, improving energy efficiency by up to 40%.
 
 <div style="text-align: center;">
-  <img src="assets/device_render.jpg" alt="3D CAD render of the device as designed" width="1000">
+  <img src="assets/device_render.jpg" alt="3D CAD render of the device as designed" width="300">
 </div>
 
 ---
