@@ -4,7 +4,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
 
 ## Projects Overview
 
-### 1. [IoT-enabled Human Presence Sensor Module](./1)
+### 1. [IoT-enabled Human Presence Sensor Module](./1_PresenceSensorModule)
 - **Description:** This project involves the design, prototype, and commercial viability test of a Smart Human Presence Sensor module to detect static human presence with customizable parameter settings and seamless communication to the cloud tailored for home automation applications.
 - **Key Features:**
   - Detection of static human presence with high accuracy
@@ -15,7 +15,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
   - Optimized for energy efficiency to support continuous operation
 - **Technologies Used:** Fusion 360, Keil µVision, C
 
-### 2. [IoT-based Wearable Assistive Device for the Visually Impaired: A hands-free solution](./2)
+### 2. [IoT-based Wearable Assistive Device for the Visually Impaired: A hands-free solution](./2_AssistiveDevice)
 - **Description:** Development, prototyping, and testing of a wearable assistive device designed to offer a modern alternative to traditional white canes, enhancing mobility and independence for visually impaired individuals. Undertaken as a college project, I worked with guidance from my professor as the project mentor to bring this vision to life.
 - **Key Features:**
   - Obstacle avoidance system built using Arduino Uno and ultrasonic sensors, providing haptic feedback for intuitive navigation
@@ -28,7 +28,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
   - Rigorously tested with 50+ participants, with iterative improvements based on user feedback
 - **Technologies Used:** BLE, WiFi, MQTT, Fusion 360, 3D Printer (Makerbot Sketch), FDM 3D Printing slicer (Makerbot Cloudprint), Arduino UNO, ESP32, HM-10 Bluetooth Module, Ultrasonic sensor, C++, Arduino IDE
 
-### 3. [Device for Efficient Solar Energy harvesting](./3)
+### 3. [Device for Efficient Solar Energy harvesting](./3_AutoSolarTracker)
 - **Description:** A comprehensive project to create a smart home automation system with IoT devices.
 - **Key Features:**
   - Dual-axis solar tracking system driven by two servo motors for continuous optimal alignment with the Sun.
@@ -47,5 +47,8 @@ For more information or collaboration opportunities, feel free to reach out to m
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikramboga1645@gmail.com)	[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-boga/)
 
-# VikramBoga-Portfolio
-A curated portfolio showcasing my technical projects as a mechatronics engineer, highlighting my skills, methodologies, and achievements across various domains.
+## Work in Progress
+
+This portfolio is currently under development, and I am continuously working on adding more projects to showcase my skills and experience as a mechatronics engineer. New projects and updates will be added very soon, so please check back periodically for the latest additions.
+
+Thank you for your interest in my work, and I appreciate your patience as I expand and refine this portfolio!

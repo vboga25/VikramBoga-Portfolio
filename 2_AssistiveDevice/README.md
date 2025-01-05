@@ -9,6 +9,17 @@ This project, undertaken as the Capstone Project for my Bachelor's degree, aims 
 
 ---
 
+## Confidentiality Notice
+
+Certain technical documents related to this project cannot be disclosed at this time due to ongoing intellectual property protection and publication processes. Specifically:
+
+- A **patent** is currently pending for aspects of the technology involved in this project, and disclosure of certain details would interfere with the patent application process.
+- A **research paper** based on this work is under publication with **IEEE**, and as such, full details are restricted until the paper is officially published.
+
+I appreciate your understanding and respect for the confidentiality of these aspects of the project. Once the patent is granted and the research paper is published, I will be able to share more detailed technical information.
+
+---
+
 ## **Key Features**  
 
 ### 1. Obstacle Detection and Avoidance  
