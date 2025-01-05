@@ -3,7 +3,7 @@
 This project aims to develop a wearable assistive device to enhance mobility and independence for visually impaired individuals. The system combines haptic feedback and voice navigation to provide real-time guidance, enabling users to navigate safely and efficiently. The primary objective was to create a user-friendly, cost-effective, and modern alternative to traditional white canes.  
 
 <div style="text-align: center;">
-  <img src="obstacle_avoid\assets\Phase1_WornOnPerson.jpg" alt="Obstacle avoidance module when worn on person's leg" style="width: 45%; display: inline-block; margin: 0 2%;">
+  <img src="obstacle_avoid\assets\Phase1_WornOnPerson.jpg" alt="Obstacle avoidance module when worn on person's leg" style="width: 15%; display: inline-block; margin: 0 2%;">
   <img src="voice_navigate\assets\DeviceOnHand.png" alt="BLE Navigation module when worn on hand" style="width: 45%; display: inline-block; margin: 0 2%;">
 </div>
 
