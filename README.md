@@ -1,4 +1,4 @@
-## Work in Progress
+### Work in Progress
 
 This portfolio is currently under development, and I am continuously working on adding more projects to showcase my skills and experience as a mechatronics engineer. New projects and updates will be added very soon, so please check back periodically for the latest additions.
 

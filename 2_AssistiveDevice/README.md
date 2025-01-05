@@ -1,4 +1,4 @@
-## Confidentiality Notice
+### Confidentiality Notice
 
 Certain technical documents related to this project cannot be disclosed at this time due to ongoing intellectual property protection and publication processes. Specifically:
 
