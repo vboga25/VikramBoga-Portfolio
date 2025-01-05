@@ -1,7 +1,7 @@
 # Automated Solar Tracker for Efficient Energy Harvesting
 
 This project focuses on designing and prototyping a dual-axis solar tracking system to maximize solar energy harvesting. The primary aim of this project was to gain hands-on experience with the ROS (Robot Operating System) framework while solving a real-world problem. By utilizing advanced simulation and control systems, the tracker aligns the solar panel with the Sun's position throughout the day, improving energy efficiency by up to 40%.
-![3D CAD render of the device as designed](assets\device_render.jpg)
+![3D CAD render of the device as designed](assets/device_render.jpg)
 ---
 
 ## **Key Features**
@@ -14,11 +14,11 @@ This project focuses on designing and prototyping a dual-axis solar tracking sys
 - Four strategically placed Light Dependent Resistors (LDRs) continuously measure light intensity.  
 - The data from the LDRs is processed to determine the direction of the Sun, ensuring the panel remains aligned with the brightest light source.  
 
-### 3. Automated Control System  [See Automatic Operation in action](Automatic Operation in ROS\automatic_demo.mp4)
+### 3. Automated Control System  [See Automatic Operation in action](Automatic Operation in ROS/automatic_demo.mp4)
 - The Arduino Uno microcontroller processes inputs from the LDRs and controls the servo motors in real time.  
 - Custom algorithms ensure smooth and efficient movements to optimize energy harvesting without unnecessary power consumption.  
 
-### 4. Manual Operation Mode  [See Manual Operation in action](Manual Operation in ROS\manual_demo.mp4)
+### 4. Manual Operation Mode  [See Manual Operation in action](Manual Operation in ROS/manual_demo.mp4)
 - A manual control mode allows users to adjust the tracker’s position via ROS commands.  
 - This mode is particularly useful for debugging and testing purposes, ensuring seamless operation even in case of automation failures.  
 
@@ -52,11 +52,11 @@ This project focuses on designing and prototyping a dual-axis solar tracking sys
 ---
 
 ## **How It Works**
-1. [**Automatic Control**](Automatic Operation in ROS\automaticcntrl_servo_solar\servo_automaticcntrl_solar.ino) 
+1. [**Automatic Control**](Automatic Operation in ROS/automaticcntrl_servo_solar/servo_automaticcntrl_solar.ino) 
    - LDR sensors detect the direction of maximum light intensity.  
    - Arduino processes the sensor data to control servo motors, ensuring optimal solar panel alignment.  
 
-2. [**Manual Operation**](Manual Operation in ROS\manualcntrl_servo_solar\servo_manualcntrl.ino)
+2. [**Manual Operation**](Manual Operation in ROS/manualcntrl_servo_solar/servo_manualcntrl.ino)
    - For debugging, the tracker can be manually controlled using ROS commands to adjust the servo angles.  
 
 3. **Simulation**
