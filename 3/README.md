@@ -17,12 +17,12 @@ This project focuses on designing and prototyping a dual-axis solar tracking sys
 ### 3. Automated Control System  
 - The Arduino Uno microcontroller processes inputs from the LDRs and controls the servo motors in real time.  
 - Custom algorithms ensure smooth and efficient movements to optimize energy harvesting without unnecessary power consumption.  
-- [See Automatic Operation in action](Automatic Operation in ROS/automatic_demo.mp4)
+- [See Automatic Operation in action](auto_op_ros/automatic_demo.mp4)
 
 ### 4. Manual Operation Mode
 - A manual control mode allows users to adjust the tracker’s position via ROS commands.  
 - This mode is particularly useful for debugging and testing purposes, ensuring seamless operation even in case of automation failures. 
-- [See Manual Operation in action](Manual Operation in ROS/manual_demo.mp4) 
+- [See Manual Operation in action](manual_op_ros/manual_demo.mp4) 
 
 ### 5. Simulation and Validation  
 - The movement of the tracker is simulated in Gazebo using ROS and URDF, allowing for detailed testing before physical implementation.  
@@ -54,11 +54,11 @@ This project focuses on designing and prototyping a dual-axis solar tracking sys
 ---
 
 ## **How It Works**
-1. [**Automatic Control**](Automatic Operation in ROS/automaticcntrl_servo_solar/servo_automaticcntrl_solar.ino) 
+1. [**Automatic Control**](auto_op_ros/automaticcntrl_servo_solar/servo_automaticcntrl_solar.ino) 
    - LDR sensors detect the direction of maximum light intensity.  
    - Arduino processes the sensor data to control servo motors, ensuring optimal solar panel alignment.  
 
-2. [**Manual Operation**](Manual Operation in ROS/manualcntrl_servo_solar/servo_manualcntrl.ino)
+2. [**Manual Operation**](manual_op_ros/manualcntrl_servo_solar/servo_manualcntrl.ino)
    - For debugging, the tracker can be manually controlled using ROS commands to adjust the servo angles.  
 
 3. **Simulation**
