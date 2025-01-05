@@ -83,6 +83,6 @@ This project aims to develop a wearable assistive device to enhance mobility and
 ---
 
 ## **Acknowledgments**  
-Special thanks to the project mentor, Dr. Ramya Moorthy and all participants for their invaluable support and feedback during the development of this project.  
+Special thanks to the project mentor, [Dr. Ramya Moorthy](https://www.manipal.edu/mit/department-faculty/faculty-list/dr-ramya-s-moorthy/_jcr_content.html) and all participants for their invaluable support and feedback during the development of this project.  
 
 ---
