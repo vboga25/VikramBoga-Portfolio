@@ -1,3 +1,9 @@
+## Work in Progress
+
+This portfolio is currently under development, and I am continuously working on adding more projects to showcase my skills and experience as a mechatronics engineer. New projects and updates will be added very soon, so please check back periodically for the latest additions.
+
+Thank you for your interest in my work, and I appreciate your patience as I expand and refine this portfolio!
+
 # Technical Experience - Vikram Boga
 
 Welcome to my professional portfolio. This repository serves as a comprehensive showcase of my technical projects as a mechatronics engineer. Each project repository includes extensive documentation, CAD models, simulation files, and other relevant materials.
@@ -46,9 +52,3 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
 For more information or collaboration opportunities, feel free to reach out to me at:
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikramboga1645@gmail.com)	[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-boga/)
-
-## Work in Progress
-
-This portfolio is currently under development, and I am continuously working on adding more projects to showcase my skills and experience as a mechatronics engineer. New projects and updates will be added very soon, so please check back periodically for the latest additions.
-
-Thank you for your interest in my work, and I appreciate your patience as I expand and refine this portfolio!

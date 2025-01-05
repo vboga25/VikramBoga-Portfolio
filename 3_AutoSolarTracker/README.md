@@ -44,8 +44,6 @@ This project focuses on designing and prototyping a dual-axis solar tracking sys
 - Testing demonstrated a 40% increase in energy harvested compared to stationary solar panels.  
 - This efficiency gain highlights the system's potential for significantly improving solar energy utilization.  
 
----
-
 ## **Technologies Used**
 - **Microcontroller**: Arduino Uno  
 - **Sensors**: Light Dependent Resistors (LDRs) for light intensity measurement  
@@ -54,8 +52,6 @@ This project focuses on designing and prototyping a dual-axis solar tracking sys
 - **Fabrication**: FDM 3D printing for tracker module  
 - **Framework**: ROS (Robot Operating System) and URDF for modeling and control  
 - **Programming Languages**: C++ for Arduino and ROS integration  
-
----
 
 ## **How It Works**
 1. [**Automatic Control**](auto_op_ros/automaticcntrl_servo_solar/servo_automaticcntrl_solar.ino) 

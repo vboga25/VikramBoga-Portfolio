@@ -1,14 +1,3 @@
-# Wearable Assistive Device for the Visually Impaired: A Hands-free solution  
-
-This project, undertaken as the Capstone Project for my Bachelor's degree, aims to develop a wearable assistive device to enhance mobility and independence for visually impaired individuals. The system combines haptic feedback and voice navigation to provide real-time guidance, enabling users to navigate safely and efficiently. The primary objective was to create a user-friendly, cost-effective, and modern alternative to traditional white canes.  
-
-<div style="text-align: center;">
-  <img src="obstacle_avoid\assets\Phase1_WornOnPerson.jpg" alt="Obstacle avoidance module when worn on person's leg" style="width: 15%; display: inline-block; margin: 0 20%;">
-  <img src="voice_navigate\assets\DeviceOnHand.png" alt="BLE Navigation module when worn on hand" style="width: 45%; display: inline-block; margin: 0 10%;">
-</div>
-
----
-
 ## Confidentiality Notice
 
 Certain technical documents related to this project cannot be disclosed at this time due to ongoing intellectual property protection and publication processes. Specifically:
@@ -17,6 +6,17 @@ Certain technical documents related to this project cannot be disclosed at this 
 - A **research paper** based on this work is under publication with **IEEE**, and as such, full details are restricted until the paper is officially published.
 
 I appreciate your understanding and respect for the confidentiality of these aspects of the project. Once the patent is granted and the research paper is published, I will be able to share more detailed technical information.
+
+---
+
+# Wearable Assistive Device for the Visually Impaired: A Hands-free solution  
+
+This project, undertaken as the Capstone Project for my Bachelor's degree, aims to develop a wearable assistive device to enhance mobility and independence for visually impaired individuals. The system combines haptic feedback and voice navigation to provide real-time guidance, enabling users to navigate safely and efficiently. The primary objective was to create a user-friendly, cost-effective, and modern alternative to traditional white canes.  
+
+<div style="text-align: center;">
+  <img src="obstacle_avoid\assets\Phase1_WornOnPerson.jpg" alt="Obstacle avoidance module when worn on person's leg" style="width: 15%; display: inline-block; margin: 0 20%;">
+  <img src="voice_navigate\assets\DeviceOnHand.png" alt="BLE Navigation module when worn on hand" style="width: 45%; display: inline-block; margin: 0 10%;">
+</div>
 
 ---
 
@@ -52,8 +52,6 @@ I appreciate your understanding and respect for the confidentiality of these asp
 ### 8. Energy Efficiency  
 - Optimized for low power consumption to maximize battery life and ensure reliability during prolonged use.  
 
----
-
 ## **Technologies Used**  
 - **Microcontrollers**: Arduino Uno, ESP32  
 - **Sensors**: Ultrasonic sensors for obstacle detection  
@@ -62,8 +60,6 @@ I appreciate your understanding and respect for the confidentiality of these asp
 - **Software**: Fusion 360 for CAD design, Arduino IDE for programming  
 - **Fabrication**: FDM 3D printing for enclosure design  
 - **Programming Languages & Libraries**: C++ for microcontroller programming; NimBLE (Bluetooth LE library for ESP32)
-
----
 
 ## **How It Works**  
 
