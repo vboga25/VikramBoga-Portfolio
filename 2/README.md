@@ -61,7 +61,7 @@ This project, undertaken as the Capstone Project for my Bachelor's degree, aims 
 2. The Arduino Uno processes sensor data and triggers vibration motors to alert users of obstacles.
 3. The following algorithm has been implemented for this module:
 <div style="text-align: center;">
-  <img src="obstacle_avoid\avoid_algorithm.jpg" alt="Obstacle avoidance algorithm" style="width: 25%; display: inline-block; margin: 1 20%;">
+  <img src="obstacle_avoid\avoid_algorithm.png" alt="Obstacle avoidance algorithm" style="width: 25%; display: inline-block; margin: 1 20%;">
 </div>
 
 ### **Navigation Assistance**  
