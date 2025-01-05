@@ -1,6 +1,6 @@
 # Wearable Assistive Device for the Visually Impaired: A Hands-free solution  
 
-This project aims to develop a wearable assistive device to enhance mobility and independence for visually impaired individuals. The system combines haptic feedback and voice navigation to provide real-time guidance, enabling users to navigate safely and efficiently. The primary objective was to create a user-friendly, cost-effective, and modern alternative to traditional white canes.  
+This project, undertaken as the Capstone Project for my Bachelor's degree, aims to develop a wearable assistive device to enhance mobility and independence for visually impaired individuals. The system combines haptic feedback and voice navigation to provide real-time guidance, enabling users to navigate safely and efficiently. The primary objective was to create a user-friendly, cost-effective, and modern alternative to traditional white canes.  
 
 <div style="text-align: center;">
   <img src="obstacle_avoid\assets\Phase1_WornOnPerson.jpg" alt="Obstacle avoidance module when worn on person's leg" style="width: 15%; display: inline-block; margin: 0 20%;">
@@ -25,6 +25,10 @@ This project aims to develop a wearable assistive device to enhance mobility and
 
 ### 4. Custom Enclosure Design  
 - Designed durable and lightweight enclosures using Fusion 360.
+<div style="text-align: center;">
+  <img src="obstacle_avoid\cad_captures\4_ArduinoCase.png" alt="CAD design of case designed for Obstacle avoidance module" style="width: 15%; display: inline-block; margin: 0 20%;">
+  <img src="voice_navigate\cad_captures\3_CaseExplodedView.png" alt="CAD design of the indoor navigation module" style="width: 45%; display: inline-block; margin: 0 10%;">
+</div>
 - Fabricated using FDM 3D printing for robustness and user comfort.
 
 ### 5. IoT and MQTT Integration  
@@ -55,6 +59,10 @@ This project aims to develop a wearable assistive device to enhance mobility and
 ### **Obstacle Detection and Feedback**  
 1. Ultrasonic sensors continuously scan for obstacles in the user’s path.
 2. The Arduino Uno processes sensor data and triggers vibration motors to alert users of obstacles.
+3. The following algorithm has been implemented for this module:
+<div style="text-align: center;">
+  <img src="obstacle_avoid\avoid_algorithm.jpg" alt="Obstacle avoidance algorithm" style="width: 25%; display: inline-block; margin: 1 20%;">
+</div>
 
 ### **Navigation Assistance**  
 1. BLE beacons provide accurate location data for turn-by-turn guidance.  
