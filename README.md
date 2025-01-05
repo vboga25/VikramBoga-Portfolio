@@ -44,6 +44,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
 ## Contact
 
 For more information or collaboration opportunities, feel free to reach out to me at:
+
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikramboga1645@gmail.com)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikram-boga/)
