@@ -32,7 +32,7 @@ Welcome to my professional portfolio. This repository serves as a comprehensive 
   - Lightweight, ergonomic, and wearable design for user comfort
   - Energy-efficient operation for extended battery life
   - Rigorously tested with 50+ participants, with iterative improvements based on user feedback
-- **Technologies Used:** BLE, WiFi, MQTT, Fusion 360, 3D Printer (Makerbot Sketch), FDM 3D Printing slicer (Makerbot Cloudprint), Arduino UNO, ESP32, HM-10 Bluetooth Module, Ultrasonic sensor, C++, Arduino IDE
+- **Technologies Used:** BLE, WiFi, MQTT, Fusion 360, FDM 3D Printer, Arduino UNO, ESP32, HM-10 Bluetooth Module, Ultrasonic sensor, C++, Arduino IDE
 
 ### 3. [Device for Efficient Solar Energy harvesting](./3_AutoSolarTracker)
 - **Description:** A comprehensive project to create a smart home automation system with IoT devices.
